@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafioTecnico.iml" filepath="$PROJECT_DIR$/.idea/desafioTecnico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inverterUmInteiro/inverterUmInteiro.iml" filepath="$PROJECT_DIR$/inverterUmInteiro/inverterUmInteiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetotecnico/projetotecnico.iml" filepath="$PROJECT_DIR$/projetotecnico/projetotecnico.iml" />
+    </modules>
+  </component>
+</project>
