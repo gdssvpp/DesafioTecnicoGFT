@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/desafioTecnico.iml" filepath="$PROJECT_DIR$/.idea/desafioTecnico.iml" />
       <module fileurl="file://$PROJECT_DIR$/inverterUmInteiro/inverterUmInteiro.iml" filepath="$PROJECT_DIR$/inverterUmInteiro/inverterUmInteiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetotecnico/projetotecnico.iml" filepath="$PROJECT_DIR$/projetotecnico/projetotecnico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veiculos/veiculos.iml" filepath="$PROJECT_DIR$/veiculos/veiculos.iml" />
     </modules>
   </component>
 </project>
